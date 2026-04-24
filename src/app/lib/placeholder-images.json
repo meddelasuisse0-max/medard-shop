@@ -1,0 +1,41 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "fragrance-1",
+      "description": "L'Essence de Médard - Signature Fragrance",
+      "imageUrl": "https://picsum.photos/seed/medard1/600/800",
+      "imageHint": "luxury perfume"
+    },
+    {
+      "id": "skincare-1",
+      "description": "Nuit Sereine Night Cream",
+      "imageUrl": "https://picsum.photos/seed/medard2/600/800",
+      "imageHint": "luxury skincare"
+    },
+    {
+      "id": "home-1",
+      "description": "Bougie d'Or - Scented Candle",
+      "imageUrl": "https://picsum.photos/seed/medard3/600/800",
+      "imageHint": "luxury candle"
+    },
+    {
+      "id": "fragrance-2",
+      "description": "Bleu Infini - Eau de Toilette",
+      "imageUrl": "https://picsum.photos/seed/medard4/600/800",
+      "imageHint": "cologne bottle"
+    },
+    {
+      "id": "skincare-2",
+      "description": "Éclat du Jour - Serum",
+      "imageUrl": "https://picsum.photos/seed/medard5/600/800",
+      "imageHint": "skincare serum"
+    },
+    {
+      "id": "home-2",
+      "description": "Diffuseur de Soie",
+      "imageUrl": "https://picsum.photos/seed/medard6/600/800",
+      "imageHint": "reed diffuser"
+    }
+  ]
+}
